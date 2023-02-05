@@ -24,9 +24,9 @@ class _HealthConnectResultScreenState extends State<HealthConnectResultScreen> {
       body: Column(
         children: [
           SizedBox(
-            height: 100,
+            height: 150,
             child: Padding(
-              padding: const EdgeInsets.all(20.0),
+              padding: const EdgeInsets.all(10.0),
               child: Image.asset('assets/banner.png'),
             ),
           ),
